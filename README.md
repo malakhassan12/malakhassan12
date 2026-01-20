@@ -1,5 +1,130 @@
-# 💫 About Me:
-Malak Hassan Hashem<br>MERN Stack Engineer<br><br>Full-Stack JavaScript • Scalable Web Applications • Production-Ready Systems<br><br>👋 Overview<br><br>I am a Computer Science major and a MERN Stack Engineer, specializing in building modern, scalable, and high-performance web applications using the JavaScript ecosystem. My core focus is full-stack development with MongoDB, Express.js, React, and Node.js, combined with modern frontend frameworks and tools.<br><br>My work centers on transforming ideas into production-ready applications—from clean UI and responsive design to robust backend APIs and efficient database architectures. I value clean code, strong fundamentals, performance optimization, and continuous learning, and I actively develop my skills through hands-on projects and structured training, including my participation in DEPI.<br><br>🚀 What I Build<br><br>Full-Stack MERN Applications<br>End-to-end web apps from UI to backend services and databases<br><br>Modern Frontend Experiences<br>Responsive, interactive UIs using React, Next.js, Tailwind CSS, and component libraries<br><br>Backend APIs & Real-Time Systems<br>RESTful APIs, authentication, and real-time features with Node.js, Express, and Socket.io<br><br>Data-Driven Applications<br>Applications backed by MongoDB and SQL databases with clean data modeling<br><br>Scalable & Maintainable Systems<br>Well-structured, modular, and production-focused codebases<br><br>📌 Featured Work<br><br>Selected projects showcasing my MERN and full-stack expertise:<br><br>Full-Stack MERN Applications (React + Node + MongoDB)<br><br>Next.js Web Applications (SSR & Performance-Focused)<br><br>Real-Time Apps using Socket.io<br><br>Authentication & Authorization Systems (JWT)<br><br>Responsive Dashboards & Data Visualization (Chart.js)<br><br>📚 Learning & Growth<br><br>I actively study and apply:<br><br>Computer Science Fundamentals<br>OOP, Data Structures, Algorithms, Design Patterns<br><br>Advanced JavaScript & TypeScript<br><br>Backend Architecture & Performance<br><br>Modern Frontend Patterns & State Management<br><br>I continuously document my learning through projects, notes, and experiments.<br><br>🤝 Collaboration & Opportunities<br><br>I am open to:<br><br>MERN Stack / Full-Stack Developer roles<br><br>Internships & Junior Developer positions<br><br>Freelance Web Development projects<br><br>Open-source contributions and team collaborations<br><br>🛠 Technical Skills<br>Core Stack (MERN)<br><br>MongoDB, Express.js, React, Node.js<br><br>Next.js, TypeScript, JavaScript<br><br>Frontend<br><br>HTML5, CSS3<br><br>Tailwind CSS, MUI, Chakra UI<br><br>React Query, React Router, React Hook Form<br><br>Redux, Chart.js<br><br>Vite, SolidJS, Vue.js<br><br>Backend & APIs<br><br>Node.js, Express.js<br><br>JWT Authentication<br><br>Socket.io<br><br>EJS<br><br>Nodemon<br><br>Databases<br><br>MongoDB<br><br>MySQL<br><br>Oracle SQL<br><br>Programming Languages<br><br>JavaScript, TypeScript<br><br>C, C++, Java<br><br>PHP, Dart<br><br>DevOps & Tools<br><br>Git, GitHub<br><br>NPM, Yarn<br><br>Vercel<br><br>Notion<br><br>Apache (Spark, Kafka, Hadoop, Hive – foundational exposure)<br><br>⭐ Always learning. Always building. Always improving.
+
+
+# Malak Hassan Hashem
+
+**MERN Stack Engineer**
+
+*Full-Stack JavaScript • Scalable Web Applications • Production-Ready Systems*
+
+---
+
+## 👋 Overview
+
+I am a **Computer Science major** and a **MERN Stack Engineer** with a strong passion for building **modern, scalable, and high-performance web applications** using the JavaScript ecosystem. My primary expertise lies in full-stack development with **MongoDB, Express.js, React, and Node.js**, complemented by modern frontend frameworks and tools.
+
+My work focuses on transforming ideas into **production-ready solutions**—from clean, responsive user interfaces to robust backend APIs and well-structured database architectures. I value **clean code, solid computer science fundamentals, performance optimization, and continuous learning**, and I actively enhance my skills through hands-on projects and structured training, including my participation in **DEPI**.
+
+---
+
+## 🚀 What I Build
+
+### **Full-Stack MERN Applications**
+
+End-to-end web applications covering frontend, backend services, and databases.
+
+### **Modern Frontend Experiences**
+
+Responsive and interactive user interfaces built with **React, Next.js, Tailwind CSS**, and modern component libraries.
+
+### **Backend APIs & Real-Time Systems**
+
+RESTful APIs, authentication systems, and real-time features using **Node.js, Express.js, and Socket.io**.
+
+### **Data-Driven Applications**
+
+Applications powered by **MongoDB and SQL databases** with clean, efficient data modeling.
+
+### **Scalable & Maintainable Systems**
+
+Well-structured, modular, and production-focused codebases designed for growth and maintainability.
+
+---
+
+## 📌 Featured Work
+
+A selection of projects demonstrating my MERN and full-stack expertise:
+
+* Full-Stack MERN Applications (React + Node.js + MongoDB)
+* Performance-focused **Next.js** applications (SSR & optimization)
+* Real-Time Applications using **Socket.io**
+* Authentication & Authorization Systems (**JWT**)
+* Responsive Dashboards & Data Visualization (**Chart.js**)
+
+---
+
+## 📚 Learning & Growth
+
+I continuously study, apply, and improve my knowledge in:
+
+* **Computer Science Fundamentals**
+  Object-Oriented Programming, Data Structures, Algorithms, Design Patterns
+* **Advanced JavaScript & TypeScript**
+* **Backend Architecture & Performance Optimization**
+* **Modern Frontend Patterns & State Management**
+
+I actively document my learning journey through projects, notes, and experiments.
+
+---
+
+## 🤝 Collaboration & Opportunities
+
+I am open to:
+
+* **MERN Stack / Full-Stack Developer roles**
+* **Internships & Junior Developer positions**
+* **Freelance Web Development projects**
+* **Open-source contributions and technical collaborations**
+
+---
+
+## 🛠 Technical Skills
+
+### **Core Stack (MERN)**
+
+* MongoDB, Express.js, React, Node.js
+* Next.js, JavaScript, TypeScript
+
+### **Frontend**
+
+* HTML5, CSS3
+* Tailwind CSS, MUI, Chakra UI
+* React Query, React Router, React Hook Form
+* Redux, Chart.js
+* Vite, SolidJS, Vue.js
+
+### **Backend & APIs**
+
+* Node.js, Express.js
+* JWT Authentication
+* Socket.io
+* EJS, Nodemon
+
+### **Databases**
+
+* MongoDB
+* MySQL
+* Oracle SQL
+
+### **Programming Languages**
+
+* JavaScript, TypeScript
+* C, C++, Java
+* PHP, Dart
+
+### **DevOps & Tools**
+
+* Git, GitHub
+* NPM, Yarn
+* Vercel
+* Notion
+* Apache Spark, Kafka, Hadoop, Hive *(foundational exposure)*
+
+---
+
+⭐ **Always learning. Always building. Always improving.**
+
+---
+
 
 
 ## 🌐 Socials:
